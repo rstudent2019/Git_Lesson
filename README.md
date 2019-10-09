@@ -1,4 +1,4 @@
 # Git_Lesson
 This repo is intended to demonstrate using Git
-Edited by DataTroy
+Edited by Sarah Hardy
 Re-edited by RStudent2019
