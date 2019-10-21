@@ -10,3 +10,4 @@ Noah Levine
 Zedrek Farrell
 Nick Stotts 
 Mia Rosengard
+Beatrice Pinetti
