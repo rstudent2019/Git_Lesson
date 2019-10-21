@@ -1,4 +1,5 @@
 # Git_Lesson
 This repo is intended to demonstrate using Git
 Edited by DataTroy
-Re-edited by ldomanico
+Re-edited by RStudent2019
+Re-edited by Luke Domanico (ldomanico)
