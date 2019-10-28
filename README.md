@@ -3,6 +3,7 @@ This repo is intended to demonstrate using Git
 Edited by DataTroy
 Re-edited by Carolyn Reagan
 Re-edited by RStudent2019
+Austin Hoffman
 Jessica Vergona
 Troy Adair
 Kyra Grodman
@@ -16,4 +17,5 @@ Zedrek Farrell
 Nick Stotts 
 Anwyn Springfield
 Beatrice Pinetti
+Gus Teteris
 Gabe Cagnazzi
