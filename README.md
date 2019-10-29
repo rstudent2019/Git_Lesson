@@ -3,6 +3,8 @@ This repo is intended to demonstrate using Git
 Edited by DataTroy
 Re-edited by Carolyn Reagan
 Re-edited by RStudent2019
+LeslyMontanoGarcia
+Andrew Mesick
 Max Asteris
 Jeff Rosenthal
 Edited by Isabel Maria
