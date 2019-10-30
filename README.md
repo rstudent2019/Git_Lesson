@@ -3,9 +3,10 @@ This repo is intended to demonstrate using Git
 Edited by DataTroy
 Re-edited by Carolyn Reagan
 Re-edited by RStudent2019
-<<<<<<< HEAD
 Ben Jacoby
-=======
+Meghan Ducey
+LeslyMontanoGarcia
+Andrew Mesick
 Max Asteris
 Jeff Rosenthal
 Edited by Isabel Maria
@@ -21,10 +22,11 @@ Julia Zambetti
 Noah Levine
 Zedrek Farrell
 Nick Stotts 
+Mia Rosengard
+Beatrice Pinetti
 Re-edited by KAClifford
 FullName Kevin Clifford
 Anwyn Springfield
 Beatrice Pinetti
 Gus Teteris
 Gabe Cagnazzi
->>>>>>> master
