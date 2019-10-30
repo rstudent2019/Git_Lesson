@@ -3,6 +3,7 @@ This repo is intended to demonstrate using Git
 Edited by DataTroy
 Re-edited by Carolyn Reagan
 Re-edited by RStudent2019
+Jordan Resnic
 Ben Jacoby
 Meghan Ducey
 LeslyMontanoGarcia
@@ -22,6 +23,7 @@ Julia Zambetti
 Noah Levine
 Zedrek Farrell
 Nick Stotts 
+Gabe Ganem
 Mia Rosengard
 Beatrice Pinetti
 Re-edited by KAClifford
