@@ -35,3 +35,4 @@ Anwyn Springfield
 Beatrice Pinetti
 Gus Teteris
 Gabe Cagnazzi
+Jake Logan
