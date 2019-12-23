@@ -4,6 +4,7 @@ Edited by DataTroy
 Re-edited by Michael Bukhalo
 Re-edited by Carolyn Reagan
 Re-edited by RStudent2019
+Zach Dorsch
 Sarah Bastian
 Jordan Resnic
 Ben Jacoby
